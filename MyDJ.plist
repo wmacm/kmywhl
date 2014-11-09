@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
+	<key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://s-143825.abc188.com:8080/iphone/MyDJ.ipa</string>
+					<string>http://211.149.198.195:8080/ad/MyDJ.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
